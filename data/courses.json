@@ -58,7 +58,7 @@
     "catID": 1,
     "CategoryName": "Web Development",
     "courseID": 3,
-    "CourseThumb": "https://www.kunocreative.com/hubfs/WebDesign%20%281%29.jpg",
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
     "CourseName": "Complete Web Development Advance",
     "Author": "MD RIAJ",
     "LastUpdate": "10/2022",
@@ -114,7 +114,7 @@
     "catID": 1,
     "CategoryName": "Web Development",
     "courseID": 2,
-    "CourseThumb": "https://www.kunocreative.com/hubfs/WebDesign%20%281%29.jpg",
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
     "CourseName": "Complete Web design Advance",
     "Author": "MD RIAJ",
     "LastUpdate": "10/2022",
@@ -161,6 +161,443 @@
           "Emphasis and Strong Tag",
           "Brain Streak",
           "Live Preview Feature"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 2,
+    "CategoryName": "Software Development",
+    "courseID": 4,
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+    "CourseName": "Maran Stack Development",
+    "Author": "MD RIAJ",
+    "LastUpdate": "11/2022",
+    "studentEnrolled": "18,000",
+    "Hours": 7.2,
+    "Review": 4.5,
+    "descriptions": "Maroon stack development is a subject where web design, web development and app development can be mastered together. At present Maron Stack Developers are in high demand in the market place and domestic companies. So enroll in Maron Stack Development course to build skills.",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Setting up the environment",
+      "Advanced HTML Practices",
+      "Build a portfolio website",
+      "Responsive Designs",
+      "Understand HTML Programming",
+      "Code HTML",
+      "Start building beautiful websites"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic programming HTML and CSS.",
+      "Basic/Minimal understanding of JavaScript"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Concept Of Web Design",
+        "topics": [
+          "Introduction",
+          "What is HTML",
+          "What is a Web page?",
+          "Your First Web Page",
+          "Brain Streak"
+        ]
+      },
+      {
+        "title": "Bootstrap, Materialize, Semantic UI",
+        "topics": [
+          "Headings",
+          "Paragraphs",
+          "Emphasis and Strong Tag",
+          "Brain Streak",
+          "Live Preview Feature"
+        ]
+      },
+      {
+        "title": "Asynchronous Programming",
+        "topics": [
+          "Headings",
+          "Paragraphs",
+          "Emphasis and Strong Tag",
+          "Brain Streak",
+          "Live Preview Feature"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 3,
+    "CategoryName": "Graphic Design",
+    "courseID": 5,
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+    "CourseName": "Professional graphic design",
+    "Author": "MD RIAJ",
+    "LastUpdate": "21/2022",
+    "studentEnrolled": "28,000",
+    "Hours": 7.2,
+    "Review": 4.5,
+    "descriptions": "As the demand for visual content has increased, marketers are now turning to graphical content. Hence the demand for graphic designers across the world is skyrocketing. A survey shows that even a small company can spend up to $500 for a good logo. Do you love to do design work? Then our graphic design course with expert instructor in updated modules is for you.",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Professional Presentation",
+      "Raster To Vector",
+      "Invoice Template Design",
+      "Letterhead Design",
+      "Brochure Layout",
+      "Logo Design",
+      "Desk & Wall Calendar Design",
+      "Product Packaging",
+      "Certificate Template Design",
+      "T-Shirt Design",
+      "Resume & Cover Letter Design",
+      "Landscape Design",
+      "Image Clipping",
+      "Neck Joint",
+      "Banner / Poster Design",
+      "Magazine Design",
+      "Web Banner Design",
+      "Web UI Design"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic programming Tools Using",
+      "Basic/Minimal understanding of JavaScript"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Class one",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Two",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 4,
+    "CategoryName": "Ui/Ux Design",
+    "courseID": 6,
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+    "CourseName": "Professional UX/UI Design",
+    "Author": "MD RIAJ",
+    "LastUpdate": "21/2022",
+    "studentEnrolled": "28,000",
+    "Hours": 8.2,
+    "Review": 4.5,
+    "descriptions": "According to a survey, about 77 percent of online businesses shut down because their website is not user friendly. The magician of making a web site or app user friendly is a UX/UI designer. If you have good design sense and feel comfortable working with graphical elements then this course is for you.",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Sketch Principles",
+      "Information Architecture",
+      "Wireframe",
+      "Storyboard Design",
+      "User Persona",
+      "Design Heuristics",
+      "App Design",
+      "Landing Page Design",
+      "Dashboard Design",
+      "Real-World Project",
+      "UI Design Project"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic   Tools Using",
+      "Basic/Minimal understanding of colors"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Class one",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Two",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 5,
+    "CategoryName": "Digital Marketing",
+    "courseID": 7,
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
+    "CourseName": "Professional UX/UI Design",
+    "Author": "MD RIAJ",
+    "LastUpdate": "21/2022",
+    "studentEnrolled": "88,000",
+    "Hours": 7.2,
+    "Review": 4.5,
+    "descriptions": "Digital marketing is the trending topic in the tech dependent world. From daily necessities to cars and houses, most people now turn to the internet to buy anything. According to Google, about 87 percent of people search Amazon or Google before buying anything. So enroll in digital marketing course to get success in business or learn online marketing.",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Niche Selection",
+      "Keyword Research (AdSense, Affiliate, Service)",
+      "Competitor Analysis & Website Audit",
+      "On-Site Optimization",
+      "On-Page Optimization",
+      "Article Writing Strategy",
+      "Google Webmaster Tool & Analytics",
+      "Off-Page SEO",
+      "Facebook Advanced Audience Targeting",
+      "Facebook Ads Quality Maintenance",
+      "Facebook Paid Campaign",
+      "Facebook Pixel & Retargeting",
+      "YouTube Competitor Analysis",
+      "YouTube Channel & Video Optimization",
+      "YouTube Monetization",
+      "LinkedIn Keyword Research And Targeting"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic   Tools Using",
+      "Basic/Minimal understanding of colors"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Class one",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Two",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 6,
+    "CategoryName": "Cyber Security ",
+    "courseID": 8,
+    "CourseThumb": "https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+    "CourseName": "Professional Cyber Security",
+    "Author": "MD RIAJ",
+    "LastUpdate": "21/2022",
+    "studentEnrolled": "17,000",
+    "Hours": 7.2,
+    "Review": 4.5,
+    "descriptions": "According to a survey, only in 2021, the total loss of various companies due to cyber attacks around the world is about 6 trillion dollars. Another survey shows that during this crisis of Covid-19, the amount of cybercrime has increased by almost 600 percent! From here we can get an idea of ​​the increasing demand for cyber security analysts or cyber engineers to increase cyber security. Ethical hackers are getting smart salaries in keeping with the times. So choose our cyber security course to make a career as a hacker.",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Introduction To Ethical Hacking",
+      "Foot Printing & Reconnaissance",
+      "Scanning Networks",
+      "System Hacking",
+      "Social Engineering",
+      "Hacking Web Applications",
+      "Hacking Wireless Networks",
+      "Hacking Mobile Platforms",
+      "Cryptography",
+      "Career Discussion And Guideline",
+      "Virtualization Technology & Setup Lab",
+      "Getting Familiar With Linux",
+      "Networking Concept",
+      "Enumeration",
+      "Vulnerability Analysis",
+      "Malware Threats",
+      "Sniffing",
+      "Denial-of-Service",
+      "Session Hijacking",
+      "Concepts Of IDS, Firewalls And Honeypots",
+      "Cloud Computing",
+      "Cyber Crime & Law",
+      "Advanced Study Guideline"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic   Tools Using",
+      "Basic/Minimal understanding of colors"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Class one",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Two",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
+        ]
+      },
+      {
+        "title": "Class Four",
+        "topics": [
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One",
+          "Video One"
         ]
       }
     ]

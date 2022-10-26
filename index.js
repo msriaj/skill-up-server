@@ -21,7 +21,7 @@ app.get("/category/:id", (req, res) => {
 
   console.log(catID);
 
-  if (catID == 6) {
+  if (catID == 7) {
     res.send(courses);
   } else {
     const courseByCat = courses.filter((course) => course.catID == catID);
