@@ -1,0 +1,30 @@
+[
+  {
+    "catID": 1,
+    "CategoryName": "Web Development"
+  },
+  {
+    "catID": 2,
+    "CategoryName": "Software Development"
+  },
+  {
+    "catID": 3,
+    "CategoryName": "Graphic Design"
+  },
+  {
+    "catID": 4,
+    "CategoryName": "Ui/Ux Design "
+  },
+  {
+    "catID": 5,
+    "CategoryName": "Digital Marketing "
+  },
+  {
+    "catID": 6,
+    "CategoryName": "Cyber Security "
+  },
+  {
+    "catID": 7,
+    "CategoryName": "All"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "catID": 1,
+    "CategoryName": "Web Development",
+    "courseID": 1,
+    "CourseThumb": "https://www.kunocreative.com/hubfs/WebDesign%20%281%29.jpg",
+    "CourseName": "Complete Javascript Beginning to Experts",
+    "Author": "MD RIAJ",
+    "LastUpdate": "10/2022",
+    "studentEnrolled": "12,000",
+    "Hours": 3.2,
+    "Review": 4.5,
+    "descriptions": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Setting up the environment",
+      "Advanced HTML Practices",
+      "Build a portfolio website",
+      "Responsive Designs",
+      "Understand HTML Programming",
+      "Code HTML",
+      "Start building beautiful websites"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic programming HTML and CSS.",
+      "Basic/Minimal understanding of JavaScript"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Html Introduction",
+        "topics": [
+          "Introduction",
+          "What is HTML",
+          "What is a Web page?",
+          "Your First Web Page",
+          "Brain Streak"
+        ]
+      },
+      {
+        "title": "Your First webpage",
+        "topics": [
+          "Headings",
+          "Paragraphs",
+          "Emphasis and Strong Tag",
+          "Brain Streak",
+          "Live Preview Feature"
+        ]
+      }
+    ]
+  },
+  {
+    "catID": 1,
+    "CategoryName": "Web Development",
+    "courseID": 3,
+    "CourseThumb": "https://www.kunocreative.com/hubfs/WebDesign%20%281%29.jpg",
+    "CourseName": "Complete Web Development Advance",
+    "Author": "MD RIAJ",
+    "LastUpdate": "10/2022",
+    "studentEnrolled": "13,000",
+    "Hours": 7.2,
+    "Review": 4.5,
+    "descriptions": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Setting up the environment",
+      "Advanced HTML Practices",
+      "Build a portfolio website",
+      "Responsive Designs",
+      "Understand HTML Programming",
+      "Code HTML",
+      "Start building beautiful websites"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic programming HTML and CSS.",
+      "Basic/Minimal understanding of JavaScript"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Html Introduction",
+        "topics": [
+          "Introduction",
+          "What is HTML",
+          "What is a Web page?",
+          "Your First Web Page",
+          "Brain Streak"
+        ]
+      },
+      {
+        "title": "Your First webpage",
+        "topics": [
+          "Headings",
+          "Paragraphs",
+          "Emphasis and Strong Tag",
+          "Brain Streak",
+          "Live Preview Feature"
+        ]
+      }
+    ]
+  },
+
+  {
+    "catID": 1,
+    "CategoryName": "Web Development",
+    "courseID": 2,
+    "CourseThumb": "https://www.kunocreative.com/hubfs/WebDesign%20%281%29.jpg",
+    "CourseName": "Complete Web design Advance",
+    "Author": "MD RIAJ",
+    "LastUpdate": "10/2022",
+    "studentEnrolled": "12,000",
+    "Hours": 3.2,
+    "Review": 4.5,
+    "descriptions": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+    "Features": [
+      "Full lifetime access",
+      "42 downloadable resources",
+      "Assignments",
+      "Certificate of Completion"
+    ],
+    "whatWillLearn": [
+      "Setting up the environment",
+      "Advanced HTML Practices",
+      "Build a portfolio website",
+      "Responsive Designs",
+      "Understand HTML Programming",
+      "Code HTML",
+      "Start building beautiful websites"
+    ],
+    "Requirements": [
+      "Any computer will work: Windows, macOS or Linux",
+      "Basic programming HTML and CSS.",
+      "Basic/Minimal understanding of JavaScript"
+    ],
+    "CourseCurriculum": [
+      {
+        "title": "Html Introduction",
+        "topics": [
+          "Introduction",
+          "What is HTML",
+          "What is a Web page?",
+          "Your First Web Page",
+          "Brain Streak"
+        ]
+      },
+      {
+        "title": "Your First webpage",
+        "topics": [
+          "Headings",
+          "Paragraphs",
+          "Emphasis and Strong Tag",
+          "Brain Streak",
+          "Live Preview Feature"
+        ]
+      }
+    ]
+  }
+]
