@@ -9,7 +9,7 @@ const port = 5000;
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("working");
+  res.send("Server working");
 });
 
 app.get("/categories", (req, res) => {
